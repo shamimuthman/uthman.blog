@@ -1,6 +1,5 @@
 ---
 import { SITE_BASE, SocialLinks, WebsiteLinks } from '../consts'
-import LogoSVG from '../assets/logo.svg'
 import { Icon } from 'astro-icon/components'
 
 const today = new Date()
@@ -12,7 +11,8 @@ const today = new Date()
 	>
 		<div>
 			<a href={`${SITE_BASE}/`} class="block w-fit" aria-label="Home">
-				<LogoSVG height={36} width={36} />
+				<!-- <LogoSVG height={36} width={36} /> -->
+				 <span class="text-3xl">Ut.</span>
 			</a>
 		</div>
 		<div>
@@ -61,11 +61,7 @@ const today = new Date()
 	</div>
 	<div class="app-container flex justify-between items-center pb-6 text-center">
 		<p class="text-left md:text-center w-full">
-			&copy; {today.getFullYear()} Source code available on <a
-				class="underline"
-				href="https://github.com/yashjawale/saral-theme-astro"
-				target="_blank">GitHub</a
-			>
+			&copy; {today.getFullYear()} All right preserved
 		</p>
 	</div>
 </footer>
