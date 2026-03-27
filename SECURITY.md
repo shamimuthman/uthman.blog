@@ -2,8 +2,8 @@
 
 ## Supported Versions
 
-This template is a living repository, without any particular distributed versions
+This template is a living repository, without any particular distributed version
 
 ## Reporting a Vulnerability
 
-If you found any vulnerability within the template, feel free to email directly to [yash25.j@gmail.com](mailto:yash25.j@gmail.com)
+If you found any vulnerability within the template, feel free to email directly to [shamimmail0@gmail.com](mailto:shamimmail0@gmail.com)
