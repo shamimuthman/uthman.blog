@@ -3,7 +3,7 @@ title: "The reason why you can't wake up for morning prayer"
 description: |
   The reason because you can't wake up for morning prayer is proving that you like something else more than salah which is sleep.
 pubDate: 'Mar 24 2026'
-coverImageCredit: 'Evgeni Tcherkasski, Unsplash'
+coverImageCredit: 'Failed to fetch, Unsplash'
 ---
 
 <mark>The reason because you can't wake up</mark> for morning prayer is proving that you like something else more than salah which <mark>is sleep.</mark>
