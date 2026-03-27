@@ -2,7 +2,7 @@
 // You can import this data from anywhere in your site by using the `import` keyword.
 
 export const SITE_TITLE = 'Uthman.blog'
-export const SITE_DESCRIPTION = 'A outeside look of my inside'
+export const SITE_DESCRIPTION = 'An outside view of my inside.'
 
 // If you deploy to a subdirectory, set the `WEBSITE_BASE` here.
 // e.g. '/blog' if you are deploying to example.com/blog
@@ -12,7 +12,7 @@ export const SITE_BASE = ''
 export const SocialLinks = [
 	{
 		name: 'GitHub',
-		url: 'https://github.com/uthmanshamim',
+		url: 'https://github.com/shamimuthman',
 	},
 	{
 		name: 'LinkedIn',
@@ -20,12 +20,16 @@ export const SocialLinks = [
 	},
 	{
 		name: 'X / Twitter',
-		url: 'https://twitter.com/uthmanshamim',
+		url: 'https://twitter.com/uthman_shamim',
 	},
 	{
 		name: 'Instagram',
 		url: 'https://instagram.com/uthmanshamim',
 	},
+	{
+		name: 'facebook',
+		url: 'https://www.facebook.com/uthmanshamim0',
+	}
 ]
 
 export const WebsiteLinks = [
