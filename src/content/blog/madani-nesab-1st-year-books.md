@@ -1,7 +1,7 @@
 ---
 title: "মাদানী নেসাব প্রথম বর্ষ (১ম বর্ষ / মিজান জামাত) পড়ানো বইসমূহ"
 description: "মাদানি নেসাবের প্রথম বর্ষের কিতাব সমূহ."
-pubDate: '2026-03-24'
+pubDate: 'Apr 02 2026'
 tags: ["Madani Nesab", "Mizan Jamath", "Madrasa Books", "Arabic Learning"]
 coverImageCredit: 'Adri Ramdeane, Unsplash'
 ---
