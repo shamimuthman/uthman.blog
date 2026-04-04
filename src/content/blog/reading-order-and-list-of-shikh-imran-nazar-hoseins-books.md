@@ -1,7 +1,7 @@
 ---
 title: "Reading order and list of shikh imran nazar hossein's books."
 pubDate: 'Apr 04 2026'
-tags: ["Imran Nazar Hossein", "Imran Nazar Hosein", "Islamic books", "Islamic history books", "Islamic historical books"]
+tags: ["Imran Nazar Hossein", "Imran Nazar Hosein", "Islamic books", "Islamic historical books"]
 coverImageCredit: 'Inverness Masjid, Facebook'
 ---
 
