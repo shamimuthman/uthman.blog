@@ -19,10 +19,10 @@ Allow: /images/
 Allow: /posts/
 
 # Optional polite crawling delay (Google ignores, others respect)
-Crawl-delay: 5
+Crawl-delay: 0
 
 # Sitemap for search engines
-Sitemap: https://yourdomain.com/sitemap-0.xml
+Sitemap: https://uthman-blog.onrender.com/sitemap-0.xml
 
 # ========================================
 # Specific bots to block (if desired)
