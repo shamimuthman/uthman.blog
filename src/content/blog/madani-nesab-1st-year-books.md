@@ -1,8 +1,31 @@
 ---
-title: "মাদানী নেসাব প্রথম বর্ষ (১ম বর্ষ / মিজান জামাত) পড়ানো বইসমূহ"
-description: "মাদানি নেসাবের প্রথম বর্ষের কিতাব সমূহ."
-pubDate: 'Apr 02 2026'
-tags: ["Madani Nesab", "Mizan Jamath", "Madrasa Books", "Arabic Learning"]
+title: 'মাদানী নেসাব প্রথম বর্ষ (১ম বর্ষ / মিজান জামাত) পড়ানো বইসমূহ'
+description: |
+  মাদানি নেসাবের প্রথম বর্ষের কিতাব সমূহ.
+pubDate: 'Apr-02-2026'
+tags:
+  [
+    'Madani Nesab',
+    'Madani Nisab',
+    'মাদানি নেসাব',
+    'মাদানি নেসাব প্রথম বর্ষ',
+    'Mizan Jamath',
+    'মিজান জামাত',
+    'Madrasa Curriculum',
+    'Madrasa Books',
+    'Islamic Madrasa Books',
+    'Arabic Learning',
+    'Learn Arabic',
+    'Arabic Grammar',
+    'Sarf Learning',
+    'Nahw and Sarf',
+    'Qasasun Nabiyyin',
+    'Islamic Education',
+    'Deeni Madrasa Education',
+    'Bangla Islamic Books',
+    'Islamic Study Books',
+    'Dawra e Hadith Preparation',
+  ]
 coverImageCredit: 'Adri Ramdeane, Unsplash'
 ---
 
@@ -26,4 +49,3 @@ coverImageCredit: 'Adri Ramdeane, Unsplash'
 **নোট:**
 
 কিছু মাদরাসায় মিজান ও মুনশাইব, ইলমুস সরফ ইত্যাদি অতিরিক্ত সরফের বইও পড়ানো হয়।
-বইগুলো রকমারি, কিতাবঘর, ওয়াফিলাইফ থেকে পাওয়া যায়।

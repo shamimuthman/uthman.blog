@@ -1,7 +1,27 @@
 ---
 title: "The reason why you can't wake up for morning prayer"
 description: |
-  The reason because you can't wake up for morning prayer is proving that you like something else more than salah which is sleep.
+  Why do many Muslims struggle to wake up for Fajr prayer? A powerful Islamic
+  reminder about priorities, love for Allah, the importance of Salah, and
+  returning to the Qur'an and early morning worship.
+tags:
+  [
+    'Fajr prayer',
+    'Morning prayer in Islam',
+    'Importance of Salah',
+    'Why missing Fajr',
+    'Wake up for Fajr',
+    'Islamic reminder',
+    'Islamic motivation',
+    'Love for Allah',
+    'Quran and Salah',
+    'Islamic self reflection',
+    'Akhirah reminder',
+    'Islamic spiritual advice',
+    'Prioritizing Allah',
+    'Islamic lifestyle',
+    'Islamic blog',
+  ]
 pubDate: 'Mar 24 2026'
 coverImageCredit: 'No data, Unsplash'
 ---
@@ -20,7 +40,7 @@ The men who likes something more than Quran and prayer; Somehow likes that thing
 
 And what happend to them who likes something else more than Allah?
 <mark>They have became meal of the grave</mark>
-Every leaving being has to test the death, williingly or unwillingly. *Even non leaving beaings has a end*, So what makes you beieve that you are not going to die?
+Every leaving being has to test the death, williingly or unwillingly. _Even non leaving beaings has a end_, So what makes you beieve that you are not going to die?
 
 Trust me the one who loves something else more than Allah, will never be satisfied with that thing.
 
