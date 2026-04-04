@@ -26,7 +26,7 @@ Sheikh Imran N. Hosein’s official e‑books page and bookstore listing include
 1. **Jerusalem in the Qur’ān** _(foundation of the story)_ . This book introduces the prophetic role of Jerusalem.
 2. **Sūrah al-Kahf and the Modern Age**. A modern commentary on Sūrah 18, building on the Jerusalem theme.
 3. **An Islamic View of Gog and Magog in the Modern World**. Discusses the end-time roles of Yājūj and Mājūj.
-4. \*\*Dajjāl, the Qur’ān and Awwal al-Zamān\*\* _(The Beginning of History)_ . Explains the emergence of the Antichrist **(Dajjāl)** in history.
+4. **Dajjāl, the Qur’ān and Awwal al-Zamān** _(The Beginning of History)_ . Explains the emergence of the Antichrist **(Dajjāl)** in history.
 5. **The Qur’ān, Dajjāl and the Jasad**. Continues the discussion on Dajjāl and his _“corpse”_ **(jasad)** .
 6. **Constantinople in the Qur’ān**. Covers the prophecy of the Muslim conquest of Constantinople before Dajjāl appears.
 7. **The Qur’ān, the Great War and the West**. Places the First World War and Western powers in the end-time context.
