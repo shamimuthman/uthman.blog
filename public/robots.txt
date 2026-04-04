@@ -1,0 +1,45 @@
+# ========================================
+# Robots.txt for Astro Blog
+# Optimized for SEO & Google Crawling
+# ========================================
+
+# Allow all search engines to crawl the main content
+User-agent: *
+Disallow: /drafts/
+Disallow: /private/
+Disallow: /admin/
+Disallow: /node_modules/
+Disallow: /404
+Disallow: /tags/*?sort=*
+Disallow: /*.pdf$
+
+# Allow crawling of assets (images, CSS, JS)
+Allow: /assets/
+Allow: /images/
+Allow: /posts/
+
+# Optional polite crawling delay (Google ignores, others respect)
+Crawl-delay: 5
+
+# Sitemap for search engines
+Sitemap: https://yourdomain.com/sitemap-0.xml
+
+# ========================================
+# Specific bots to block (if desired)
+# ========================================
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+# ========================================
+# Notes:
+# 1. Replace 'yourdomain.com' with your actual domain.
+# 2. Keep sitemap-0.xml updated automatically if your Astro blog generates new posts.
+# 3. Disallowed paths protect drafts, private content, and admin areas from indexing.
+# 4. Images, assets, and posts are allowed for SEO and social sharing.
+# ========================================
