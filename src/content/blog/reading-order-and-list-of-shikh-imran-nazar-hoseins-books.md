@@ -21,8 +21,6 @@ tags:
 coverImageCredit: 'Inverness Masjid, Facebook'
 ---
 
-# Sheikh Imran N. Hosein’s Books: Reading Order
-
 Sheikh Imran N. Hosein’s official e‑books page and bookstore listing include a comprehensive list of his works. In particular, the core **eschatological sequence** should be read in the following order:
 
 1. **Jerusalem in the Qur’ān** _(foundation of the story)_ . This book introduces the prophetic role of Jerusalem.
