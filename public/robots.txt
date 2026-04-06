@@ -17,9 +17,13 @@ Disallow: /*.pdf$
 Allow: /assets/
 Allow: /images/
 Allow: /posts/
+Allow: /blog/
+Allow: /pages/
+Allow: /content/
+Allow:/blog/
+Allow:/about/
 
 # Optional polite crawling delay (Google ignores, others respect)
-Crawl-delay: 0
 
 # Sitemap for search engines
 Sitemap: https://uthman-blog.onrender.com/sitemap-0.xml
