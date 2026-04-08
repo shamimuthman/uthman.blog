@@ -105,12 +105,12 @@
     unist-util-visit "^5.0.0"
     vfile "^6.0.3"
 
-"@astrojs/partytown@^2.1.4":
-  version "2.1.4"
-  resolved "https://registry.npmjs.org/@astrojs/partytown/-/partytown-2.1.4.tgz"
-  integrity sha512-loUrAu0cGYFDC6dHVRiomdsBJ41VjDYXPA+B3Br51V5hENFgDSOLju86OIj1TvBACcsB22UQV7BlppODDG5gig==
+"@astrojs/partytown@^2.1.6":
+  version "2.1.6"
+  resolved "https://registry.yarnpkg.com/@astrojs/partytown/-/partytown-2.1.6.tgz#579db871ff020db44fa1521969c909f2941f7434"
+  integrity sha512-pS95OSnPkSmuOHzwLXCea8p4P8bqmA2fm3BUBW6/egzSTaWYte/Gp1jiAoPmCZ6FV7jGx4GHduO2CUltUXc3Og==
   dependencies:
-    "@qwik.dev/partytown" "^0.11.0"
+    "@qwik.dev/partytown" "^0.11.2"
     mrmime "^2.0.1"
 
 "@astrojs/prism@3.3.0":
@@ -776,9 +776,9 @@
   resolved "https://registry.npmjs.org/@pkgr/core/-/core-0.2.9.tgz"
   integrity sha512-QNqXyfVS2wm9hweSYD2O7F0G06uurj9kZ96TRQE5Y9hU7+tgdZwIkbAKc5Ocy1HxEY2kuDQa6cQ1WRs/O5LFKA==
 
-"@qwik.dev/partytown@^0.11.0":
+"@qwik.dev/partytown@^0.11.2":
   version "0.11.2"
-  resolved "https://registry.npmjs.org/@qwik.dev/partytown/-/partytown-0.11.2.tgz"
+  resolved "https://registry.yarnpkg.com/@qwik.dev/partytown/-/partytown-0.11.2.tgz#2f8c715912c3522b1d2e1bbf75801196ab198422"
   integrity sha512-795y49CqBiKiwKAD+QBZlzlqEK275hVcazZ7wBPSfgC23L+vWuA7PJmMpgxojOucZHzYi5rAAQ+IP1I3BKVZxw==
   dependencies:
     dotenv "^16.4.7"
